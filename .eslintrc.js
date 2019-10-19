@@ -25,4 +25,5 @@ module.exports = {
     "camelCase": "off",
     "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
   },
+
 };
